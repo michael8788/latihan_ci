@@ -1,0 +1,20 @@
+    nav{
+        display: block;
+        background-color: #4679BD;
+    }
+    nav ul{
+        margin: 0;
+        padding: 0;
+        list-style: none;
+    }
+    nav ul > li{ display: inline; }
+    nav ul > li > a{
+        display: inline-block;
+        padding: 8px 12px;
+        border-right: #4072B4;
+        text-decoration: none;
+        color: #fff;
+        text-transform: capitalize;
+        background-image: 
+    }
+    nav ul > li > a:hover{ background-color: #4072B4; }
